@@ -1,4 +1,5 @@
 import React from 'react';
+import EmailComponent from './EmailComponent';
 
 class EmailContainer extends React.Component {
   constructor(props) {
